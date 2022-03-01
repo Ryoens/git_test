@@ -1,3 +1,1 @@
-ruby
-crystal
-diamond
+ruby/crystal/diamond
